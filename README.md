@@ -26,17 +26,17 @@ Paso 2:
 
 Paso 3) 
 
-Se cargan todos los dataframes a SQL y se establecen sus relaciones.
+- Se cargan todos los dataframes a SQL y se establecen sus relaciones.
 
 Paso 4)
 
-A través de querys se obtienen los 10 cantantes con un mayor numero de hits en los últimos 11 años y los 10 últimos de la lista.
+- A través de querys se obtienen los 10 cantantes con un mayor numero de hits en los últimos 11 años y los 10 últimos de la lista.
 
-Tras este filtrado se extraen datos de la pagina web SoundCharts para esos 20 artistas y se repiten los pasos del 1 al 3 para poder introducirlos en la base de datos.
+- Tras este filtrado se extraen datos de la pagina web SoundCharts para esos 20 artistas y se repiten los pasos del 1 al 3 para poder introducirlos en la base de datos.
 
 Conclusiones:
 
-Los cantantes con mayor número de hits son aquellos que tienen un mayor número de seguidores o que llevan en la industria musical durante un mayor periodo de tiempo. 
-Aquellos que tienen un único hit en los datos lo han conseguido gracias a la viralización de sus canciones en diferentes plataformas como TikTok o colaboraciones con artistas más conocidos.
+- Los cantantes con mayor número de hits son aquellos que tienen un mayor número de seguidores o que llevan en la industria musical durante un mayor periodo de tiempo. 
+- Aquellos que tienen un único hit en los datos lo han conseguido gracias a la viralización de sus canciones en diferentes plataformas como TikTok o colaboraciones con artistas más conocidos.
 
  
