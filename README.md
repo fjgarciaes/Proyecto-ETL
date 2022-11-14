@@ -30,9 +30,9 @@ Paso 3)
 
 Paso 4)
 
-- A través de querys se obtienen los 10 cantantes con un mayor numero de hits en los últimos 11 años y los 10 últimos de la lista.
+1) A través de querys se obtienen los 10 cantantes con un mayor numero de hits en los últimos 11 años y los 10 últimos de la lista.
 
-- Tras este filtrado se extraen datos de la pagina web SoundCharts para esos 20 artistas y se repiten los pasos del 1 al 3 para poder introducirlos en la base de datos.
+2) Tras este filtrado se extraen datos de la pagina web SoundCharts para esos 20 artistas y se repiten los pasos del 1 al 3 para poder introducirlos en la base de datos.
 
 Conclusiones:
 
