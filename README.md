@@ -13,12 +13,12 @@ Paso 1:
 
 1. Se extraen 3 archivos CSV de Kaggle que contienen la información del Top 50 en Spotify desde el año 2010 al 2021.
 
-2. Se extrae una tabla de wikipedia utilizando Selenium que contiene las 100 canciones mas escuchadas en la historia de Spotify
+2. Se extrae una tabla de wikipedia utilizando Selenium que contiene las 100 canciones mas escuchadas en la historia de Spotify.
 
 
 Paso 2:
 
-1) Se realiza un proceso de normalización de los 3 archivos CSV para poder unirlos en un único dataframe
+1) Se realiza un proceso de normalización de los 3 archivos CSV para poder unirlos en un único dataframe.
 
 2) Se normalizan los datos extraídos de la tabla encontrada en wikipedia.
 
@@ -36,6 +36,7 @@ Tras este filtrado se extraen datos de la pagina web SoundCharts para esos 20 ar
 
 Conclusiones:
 
-Los cantantes con mayor número de hits son aquellos que tienen un mayor número de seguidores o que llevan en la industria musical durante un largo de tiempo, mientras que aquellos que tienen un único hit en nuestros datos lo han conseguido gracias a la viralización de sus canciones en diferentes plataformas como TikTok.
+Los cantantes con mayor número de hits son aquellos que tienen un mayor número de seguidores o que llevan en la industria musical durante un mayor periodo de tiempo. 
+Aquellos que tienen un único hit en los datos lo han conseguido gracias a la viralización de sus canciones en diferentes plataformas como TikTok o colaboraciones con artistas más conocidos.
 
  
