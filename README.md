@@ -36,7 +36,7 @@ Paso 4)
 
 2) Tras este filtrado se extraen datos de la pagina web SoundCharts para esos 20 artistas y se repiten los pasos del 1 al 3 para poder introducirlos en la base de datos.
 
-Conclusiones:
+ANALISIS/CONCLUSIONES:
 
 - Los cantantes con mayor número de hits son aquellos que tienen un mayor número de seguidores o que llevan en la industria musical durante un mayor periodo de tiempo. 
 - Aquellos que tienen un único hit en los datos lo han conseguido gracias a la viralización de sus canciones en diferentes plataformas como TikTok o colaboraciones con artistas más conocidos.
