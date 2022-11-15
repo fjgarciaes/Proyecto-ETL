@@ -2,8 +2,10 @@
 
 ![spotify](https://user-images.githubusercontent.com/114060666/201764930-a4a88ca6-60df-42d2-b20b-18467af907f1.jpeg)
 
+OBJETIVO:
+- Crear una base de datos para poder explorar las caracteríscticas técnicas de las canciones y el impacto de sus cantantes en las redes sociales.
 
-OBJETIVOS:
+PROCEDIMIENTO A SEGUIR:
 1) Extraer datos de 3 fuentes utilizando dos métodos de extracción distintos.
 2) Transformación y limpieza de los datos.
 3) Guardado en base de datos.
